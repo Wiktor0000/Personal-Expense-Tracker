@@ -1,8 +1,10 @@
 Personal Expense Tracker
+
 Personal Expense Tracker is a simple interactive program created in Python that allows you to effortlessly track your personal expenses. With this application, you can easily add new transactions, generate detailed reports, and visualize your expenditure data using charts.
 
-Features
-#Adding Transactions
+Features:
+
+Adding Transactions
 Easily add new transactions using an interactive form. Input the amount, category (e.g., food, rent, transportation), and a brief description to keep a comprehensive record of your expenses.
 
 Generating Reports
