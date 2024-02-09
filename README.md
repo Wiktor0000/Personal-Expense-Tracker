@@ -16,5 +16,7 @@ Visualize your expenditure data with ease using bar and pie charts. This graphic
 Technologies used in the application:
 
 Python: The primary programming language used to create the application
+
 Tkinter: GUI library used to create an intuitive user interface
+
 Matplotlib: Library for generating charts, enabling the presentation of data in an attractive visual form
